@@ -2,11 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-/* Soft, classy palette */
-$primary-color: #506D84;    // muted soft navy
-$accent-color: #A7C5BD;     // pale sage
-$text-color: #333;
-$background-color: #F9FAFB;
 
 body {
   background-color: $background-color;
@@ -18,3 +13,24 @@ body {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+/* 🎨 Soft, classy theme tweaks */
+
+body {
+  background-color: #FAFAFA; /* light soft white */
+  color: #2E2E2E;            /* deep gray for clean text */
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #506D84; /* muted navy for headers */
+}
+
+a {
+  color: #5A8A8F;  /* dusty teal */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
