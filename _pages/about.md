@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi, I’m [Your Name].
+Hi, I’m Blen, 
 
 I’m a student, mentor, and changemaker who believes in the power of STEM — and more importantly, the power of *access*.  
 
