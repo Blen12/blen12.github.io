@@ -15,6 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+title: "STEM beyond borders"
+description: "Bridging the STEM Opportunity Gap | Student, Mentor, Changemaker"
+name: "Blen Shiferaw"
+email: blen122007@gmail.com  # optional
+url: "https:/blen12.github.io"
+
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Site Title"
