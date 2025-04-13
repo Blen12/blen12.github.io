@@ -1,0 +1,18 @@
+intro:
+  - image_path: /assets/images/kit-icon.png
+    alt: "STEM Kits"
+    title: "STEM Kits for Ethiopia"
+    excerpt: "Creating hands-on STEM kits to bring science to life for underserved students."
+    url: "/projects/"
+
+  - image_path: /assets/images/mentor-icon.png
+    alt: "Mentorship"
+    title: "Mentorship Program"
+    excerpt: "Supporting young immigrants with weekly sessions, goal-setting, and STEM exposure."
+    url: "/projects/"
+
+  - image_path: /assets/images/resource-icon.png
+    alt: "Resources"
+    title: "Global STEM Resource Guide"
+    excerpt: "Launching a curated database of free STEM tools, competitions, and scholarships."
+    url: "/projects/"
