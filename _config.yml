@@ -347,5 +347,6 @@ plugins:
 
 # Link custom styles
 custom_css:
-  - /assets/css/custom.css
+  - /assets/css/main.css
+
 
