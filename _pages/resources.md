@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Projects"
-permalink: /projects/
+layout: simple
+title: "Resources"
+permalink: /resources/
 author_profile: true
 ---
 
