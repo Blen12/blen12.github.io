@@ -2,7 +2,6 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    main:
   - title: "About"
     url: /about/
   - title: "Projects"
@@ -10,7 +9,7 @@ main:
   - title: "Resources"
     url: /resources/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Contact"
     url: /contact/
 
